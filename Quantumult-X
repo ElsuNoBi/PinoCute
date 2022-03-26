@@ -23,7 +23,6 @@ static=4G, Trực tiếp, VPN, Tự Chọn, img-url=https://raw.githubuserconten
 static=Chặn Ads, BẬT, TẮT, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
 static=Trực tiếp, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WiFi.png
 static=VPN, proxy, img-url=network.system
-url-latency-benchmark=Tự Chọn, server-tag-regex=., check-interval=600, tolerance=0, img-url=paperplane.fill.system
 static=BẬT, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
 static=TẮT, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Reject.png
 ssid=End, 4G, Wifi
