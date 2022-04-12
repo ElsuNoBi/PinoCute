@@ -29,9 +29,6 @@ url-latency-benchmark=Tự Chọn, server-tag-regex=., check-interval=600, toler
 
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-exceptions-rule.conf, tag=🇻🇳hostsVN, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-rule.conf, tag=🇻🇳hostsVN, force-policy=Chặn Ads, enabled=true
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-OTA.conf, tag=🇻🇳hostsVN-OTA, force-policy=Chặn OTA, enabled=true
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult-FB.conf, tag=🇻🇳hostsVN-FB, force-policy=Chặn Quảng Cáo FB, enabled=true
-
 
 [rewrite_remote]
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
